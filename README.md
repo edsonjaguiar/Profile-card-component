@@ -55,5 +55,5 @@ Esse projeto, como ajuda para o posicionamento de imagens eu utilizei esse víde
 
 ```zsh
     # Clonando o repositório em sua máquina
-    $ git clone https://github.com/edsonjaguiar/Solution-FrontendMentor-using-Flexbox
+    $ git clone https://github.com/edsonjaguiar/Profile-card-component
 ```
