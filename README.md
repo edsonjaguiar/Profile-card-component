@@ -45,7 +45,7 @@ Pretendo utilizar códigos padronizados à BEM, pois facilita a leitura do códi
 
 ---
 
-### Agradecimentos
+### 🤗 Agradecimentos
 
 Esse projeto, como ajuda para o posicionamento de imagens eu utilizei esse vídeo incrível: [Background-position](https://www.youtube.com/watch?v=NZpG9EBKYWc).
 
