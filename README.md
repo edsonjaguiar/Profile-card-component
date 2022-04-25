@@ -41,7 +41,7 @@ Pretendo utilizar códigos padronizados à BEM, pois facilita a leitura do códi
 
 -   [BEM](https://en.bem.info/methodology/quick-start/) - Isso me ajudou a deixar o CSS fácil de ler. Gostei muito deste modelo e vou usá-lo daqui para frente.
 -   [Flexbox](https://origamid.com/projetos/flexbox-guia-completo/) - Este é um site incrível que me ajudou a finalmente entender Flexbox. Eu recomendo para quem ainda está aprendendo este conceito.
--   [Background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position) - Este é um site incrível para entender sobre os positionamentos de imagems. Eu recomendo para quem ainda está aprendendo este conceito.
+-   [Background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position) - Este é um site incrível para entender sobre os posicionamentos de imagens. Eu recomendo para quem ainda está aprendendo este conceito.
 
 ---
 
